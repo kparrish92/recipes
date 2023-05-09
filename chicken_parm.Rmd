@@ -1,0 +1,34 @@
+---
+title: "Chicken parmesean"
+output: html_document
+date: '2023-05-09'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Total time: 45 minutes, 20 minutes if using premade sauce
+
+Adapted from: [this recipe from America's Test Kitchen](https://www.americastestkitchen.com/recipes/2772-skillet-chicken-parmesan)
+
+## Ingredients 
+
+- 3/4 cups fresh bread crumbs
+- 1 cup grated Parmesan cheese
+- 1/2 cup shredded mozzarella cheese
+
+- 2  boneless, skinless chicken breasts (1 pound), halved horizontally
+- Chicken seasoning: Paprika, Garlic Power, Salt and Pepper 
+
+- Tomato Sauce - I used [Marcella Hazan's simple tomato sauce](https://cooking.nytimes.com/recipes/1015178-marcella-hazans-tomato-sauce) 
+
+Serve with spaghetti noodles
+
+## Instructions
+
+1. **Make breadcrumbs**: Toast bread crumbs in large nonstick skillet over medium-high heat until browned, about 5 minutes. Transfer to bowl. Toss with 1 tablespoon olive oil, 1/4 cup Parmesan. 
+
+2. **Cook chicken in oil**: Season chicken with paprika, garlic powder, salt and pepper. Heat 2 tablespoons olive oil in skillet over medium-high heat until shimmering. Add cutlets and cook until golden brown on both sides, about 5 minutes total. 
+
+3. **Add sauce to chicken**: Reduce heat to medium-low and add tomato sauce to empty skillet. Return cutlets to pan in even layer, pressing down to cover with sauce. Sprinkle mozzarella, and remaining Parmesan over chicken. Cover with lid and cook until cheese is melted, about 5 minutes. Sprinkle with bread crumb mixture and serve.
