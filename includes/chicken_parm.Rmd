@@ -8,6 +8,8 @@ date: '2023-05-09'
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+Total time: 45 minutes, 20 minutes if using premade sauce
+
 Adapted from: [this recipe from America's Test Kitchen](https://www.americastestkitchen.com/recipes/2772-skillet-chicken-parmesan)
 
 ## Ingredients 
