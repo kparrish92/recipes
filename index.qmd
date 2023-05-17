@@ -10,6 +10,11 @@ These are my recipes and stuff. Most are copies or adaptations of other recipes.
 
 ### Dinner
 
+
+#### Chicken 
+
+[Chicken in a white wine pan sauce](includes/chicken_white_wine.html)
+
 #### Italian
 
 [Chicken Parmesean](includes/chicken_parm.html)
