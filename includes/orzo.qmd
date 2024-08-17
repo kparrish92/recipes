@@ -6,6 +6,44 @@ editor: visual
 
 ## Ingredients
 
+### Prep
+
+```{r, include=FALSE, echo=FALSE}
+
+Spices = c("Garlic powder",
+"Red Chili flakes", 
+"Salt",
+"Pepper", 
+"Saffron",
+"Parsley",
+"Oregano")
+
+Pantry = c(
+"Breadcrumbs",
+"Orzo",
+"",
+"",
+"",
+"",
+"")
+
+Fridge = c(
+"Parm",
+"Butter",
+"Turkey",
+"Lemon",
+"1 Egg",
+"Better than Bouillon Chicken Paste (if using)",
+"")
+
+prep_df = data.frame(Fridge, Pantry, Spices)
+```
+
+```{r, echo=FALSE}
+
+knitr::kable(prep_df)
+```
+
 ### Meatballs
 
 -   1 lb ground turkey
