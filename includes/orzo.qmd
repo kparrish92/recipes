@@ -73,7 +73,7 @@ knitr::kable(prep_df)
 -   2 garlic gloves, diced
 -   "Pinch" of Saffron (I use a container in Germany that has .2 grams)
 -   200g orzo
--   20g parmesean cheese
+-   20g Parmesan cheese
 -   1/2 tsp red pepper flakes
 -   475ml chicken stock
 -   2 tbsp oregano
