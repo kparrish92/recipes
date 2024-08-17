@@ -4,14 +4,28 @@ title: "The Kyle menu"
 
 ## Overview
 
-These are my recipes and stuff. Most are copies or adaptations of other recipes. Each recipe includes a simplified list of ingredients. A few notes: Salt and pepper, and cooking fats (butter, olive oil etc.) are not listed in ingredients unless the exact quantity is high overall (like one tomato sauce recipe calls for more than half a stick of butter). I also sub-list seasonings, just to make the ingredient lists a bit less overwhelming. 
+These are my recipes and stuff. Most are copies or adaptations of other recipes. Each recipe includes a simplified list of ingredients. A few notes: Salt and pepper, and cooking fats (butter, olive oil etc.) are not listed in ingredients unless the exact quantity is high overall (like one tomato sauce recipe calls for more than half a stick of butter). I also 
+sub-list seasonings, just to make the ingredient lists a bit less overwhelming. 
+
+### Sauces 
+
+[Tzatziki with greek yogurt](includes/tzatziki_greek_yogurt.html)
+
 
 ### Breakfast 
+
+[French Toast](https://tastesbetterfromscratch.com/classic-french-toast/)
+
+
+### Lunch
+
+<!-- Fancy PB & J -->
+
 
 ### Dinner
 
 
-#### Chicken 
+#### French 
 
 [Chicken in a white wine pan sauce](includes/chicken_white_wine.html)
 
@@ -21,7 +35,9 @@ These are my recipes and stuff. Most are copies or adaptations of other recipes.
 
 [Meat Sauce for Spaghetti](includes/spaghetti.html)
 
+#### Mediterranean
 
+[Turkey Meatball and Saffron Orzo](includes/orzo.html)
 
 ### Dessert
 
