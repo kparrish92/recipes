@@ -1,0 +1,57 @@
+---
+title: ""
+output: pdf_document
+date: "2024-08-19"
+---
+
+## Research Assistant Application Form
+
+*Position:* Undergraduate Research Assistant  
+*Location:* Goethe University Frankfurt, Germany  
+*Application Deadline:* September 1st, 2024
+
+---
+
+### **Personal Information**
+
+- **Full Name:** ____________________________________________
+- **Date of Birth (DD/MM/YYYY):** _____________________________
+- **Email Address:** _________________________________________
+- **Languages spoken:** _________________________________________
+
+
+### **Academic Information**
+
+- **Field of Study:** __________________________________________
+- **Current Year of Study:** ___________________________________
+- **Expected Graduation Date:** _______________________________
+
+### **Research Experience (if any)**
+
+- **Previous Research Experience (if applicable):**  
+  - **Project Title:** __________________________________________  
+  - **Supervisor's Name:** ____________________________________  
+  - **Brief Description of the Project:**  
+    ________________________________________________________  
+    ________________________________________________________  
+    ________________________________________________________
+
+### **Motivation and Skills**
+
+- **Why are you interested in this research assistant position?**  
+  ________________________________________________________  
+  ________________________________________________________  
+  ________________________________________________________
+  
+- **Relevant Skills and Competencies:**  
+  ________________________________________________________  
+  ________________________________________________________  
+  ________________________________________________________
+
+### **Availability**
+
+- **Are there any periods during the semester when you will be unavailable? If yes, please specify:**  
+  ________________________________________________________  
+  ________________________________________________________
+
+Please submit this form along with your CV to Parrish@em.uni-frankfurt.de by September 1st, 2024.

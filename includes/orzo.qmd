@@ -49,8 +49,8 @@ knitr::kable(prep_df)
 3.  Weight 200g Orzo
 4.  Scale 80g butter (cut in half)
 5.  Zest a lemon (2 tsp)
-6.  Measure spices for meatballs: 3 tbsp Parsley, 1 tsp garlic powder, 1/2 red pepper flakes, 1 tsp salt, pepper as yo feel
-7.  Measure orzo spices: 1/2 tsp pepper flakes - add to garlic, separately 2 tbsp
+6.  Measure spices for meatballs: 3 tbsp Parsley, 1 tsp garlic powder, 1/2 red pepper flakes, 1 tsp salt, pepper as you feel
+7.  Measure orzo spices: 1/2 tsp pepper flakes - add to garlic, separately 2 tbsp oregano
 8.  Measure bread crumbs: 1/2 cup
 
 ### Meatballs
