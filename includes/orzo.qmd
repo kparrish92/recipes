@@ -4,6 +4,16 @@ format: html
 editor: visual
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE)
+```
+
+
+```{r}
+library(here)
+knitr::include_graphics(here("includes", "img", "turkey_mb_orzo.png"))
+```
+
 ## Ingredients
 
 ### Prep

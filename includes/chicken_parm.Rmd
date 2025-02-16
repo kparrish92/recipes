@@ -5,12 +5,19 @@ date: '2023-05-09'
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE, message = FALSE)
+```
+
+
+```{r}
+library(here)
+knitr::include_graphics(here("includes", "img", "chk_parm_l.png"))
 ```
 
 Total time: 45 minutes, 20 minutes if using premade sauce
 
 Adapted from: [this recipe from America's Test Kitchen](https://www.americastestkitchen.com/recipes/2772-skillet-chicken-parmesan)
+
 
 ## Ingredients 
 

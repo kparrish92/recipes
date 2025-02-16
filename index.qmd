@@ -11,23 +11,108 @@ sub-list seasonings, just to make the ingredient lists a bit less overwhelming.
 
 [Tzatziki with greek yogurt](includes/tzatziki_greek_yogurt.html)
 
+Yogurt Sauce 
+
+Emergency Salsa 
+
+Pizza sauce 
+
+Red Salsa from fire roasted tomatoes 
+
+Quick blueberry jam 
+
+### Sides 
+
+Roasted Brocolli 
+
+Garlic Bread 
+
+Mashed potatoes 
+
+Roasted potatoes
+
+Caeser salad with scratch croutons
+
+Roasted Zuchinni 
+
+Green Beans 
+
+Baby Spinach Salad 
 
 ### Breakfast 
 
 [French Toast](https://tastesbetterfromscratch.com/classic-french-toast/)
 
+Buttermilk biscuits 
+
+Lemon blueberry pancakes 
+
+Lemon blueberry loaf
 
 ### Lunch
+
+Grilled Cheese
+
+Cheese Quesadilla 
+
+Easy pita pizza 
 
 <!-- Fancy PB & J -->
 
 
 ### Dinner
 
+#### American 
+
+Smash burgers 
+
+Sloppy Josephs 
+
+Fried Chicken Tenders 
+
+Fried Chicken Sandwich 
+
+Grilled Chicken Breast in butter, garlic, rosemary and thyme 
+
+Dinner family Pizza
+
+Mac and cheese 
+
+Ribeye steak
+
+Strip Steak
+
+Filet with pan sauce 
+
+Chili 
+
+#### Spanish 
+
+Patatas Bravas 
+
+#### Cuban 
+
+Meatballs in Saffron Cream Sauce 
+
+#### Mexican 
+
+Dorito chilaquiles
+
+Turkey taco filling 
+
+Killion's Mexican Chicken and dorito bake 
+
+Turkey and cheese quesadilla 
+
+Shredded chicken tacos 
+
+Pollo Fundido 
 
 #### French 
 
 [Chicken in a white wine pan sauce](includes/chicken_white_wine.html)
+
+Chicken thighs and breast in red wine vinegar sauce 
 
 #### Italian
 
@@ -35,9 +120,21 @@ sub-list seasonings, just to make the ingredient lists a bit less overwhelming.
 
 [Meat Sauce for Spaghetti](includes/spaghetti.html)
 
+[Orzo Alfredo](includes/orzo_alfredo.html) **V**
+
+Merry me Chicken (Tuscan chicken in cream sauce)
+
+Lasagna with meat sauce and bechamel 
+
+Simple spaghetti and tomato sauce **V**
+
+Pink Sauce and rigatoni **V**
+
 #### Mediterranean
 
 [Turkey Meatball and Saffron Orzo](includes/orzo.html)
+
+Lamb Chops with orzo 
 
 ### Dessert
 
@@ -47,3 +144,4 @@ sub-list seasonings, just to make the ingredient lists a bit less overwhelming.
 
 [Chocolate Chip cookies](includes/cookies.html)
 
+Blueberry crumble
