@@ -1,0 +1,33 @@
+---
+title: "Taco meat burrito"
+format: html
+editor: visual
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE)
+```
+
+```{r}
+library(here)
+knitr::include_graphics(here("includes", "img", ""))
+```
+
+Total time: 30 minutes
+
+# Ingredients
+
+- Taco meat filling left over
+
+- 1 flour tortilla 
+
+- Toppings (shredded cheese, hot sauce and sour cream)
+
+
+# Instructions
+
+1.  **Reheat taco meat** take the desired amount of taco meat out of the fridge and add it to a skillet (no oil needed) on medium heat. The fat within the taco meat will have solidified. You want to melt it and heat the taco meat through. It will be hot enough when you notice sizzling. Remove the meat from the skillet and add to a bowl or something. Leave some of the fat from the beef!
+
+2.  **Lightly fry tortilla:** Add your tortilla to the pan (flat) and lightly fry it in the fat on one side. Add the taco meat back on top of the tortilla and some cheese. Allow the tortilla to lightly fry for 1-2 minutes. It should lightly brown and take on a red color (the spices within the fat).
+
+3.  **Transfer to plate and wrap:** move the tortilla to a plate (it'll be hot be careful). Add the toppings you want. Wrap the tortilla burrito style. Done! Serve with chips or something because it's messy.

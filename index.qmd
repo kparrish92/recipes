@@ -130,11 +130,31 @@ Simple spaghetti and tomato sauce **V**
 
 Pink Sauce and rigatoni **V**
 
+Chicken Picatta 
+
 #### Mediterranean
 
 [Turkey Meatball and Saffron Orzo](includes/orzo.html)
 
 Lamb Chops with orzo 
+
+
+#### Leftover recipes 
+
+**Taco meat** 
+
+[Burrito](includes/leftover_burrito.html)
+
+Quesadilla 
+
+Chilaquiles 
+
+**Spaghetti Sauce**
+
+Pizza 
+
+Lasagna 
+
 
 ### Dessert
 
